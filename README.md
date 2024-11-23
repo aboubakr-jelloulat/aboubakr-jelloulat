@@ -1,20 +1,40 @@
+## root:~$ whoami
+
+>  [1337](https://1337.ma/en/) Student \
+
+
+
 <a href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/binary/ajelloul" alt="ajelloul's 42 stats" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Aboubakr</h1>
-<h3 align="center">Student at 1337</h3>
+<pre>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboubakr-jelloulat&label=Profile%20views&color=0e75b6&style=flat" alt="aboubakr-jelloulat" /> </p>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Student at 1337 MED
+│
+└───────────────────────────────▰▰▰
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aboubakr-jelloulat" alt="aboubakr-jelloulat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/baker13329545" target="blank"><img src="https://img.shields.io/twitter/follow/baker13329545?logo=twitter&style=for-the-badge" alt="baker13329545" /></a> </p>
+┌──┤ 42 PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/aboubakr-jelloulat/42-cursus/tree/main/libft">libft</a>
+├─◈ <a href="https://github.com/aboubakr-jelloulat/42-cursus/tree/main/get_next_line">get_next_line</a>
+├─◈ 
+└───────────────────────────────▰▰▰
 
-- 🌱 I’m currently learning **42 cursus**
-
-- 📫 How to reach me **abubakerjelloulat@gmail.com**
-
+┌──┤ Programming Advices Project ├───────▰▰▰
+│
+├─◈ 
+├─◈ 
+└───────────────────────────────▰▰▰
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ Email : 
+│
+└───────────────────────────────▰▰▰
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/baker13329545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baker13329545" height="30" width="40" /></a>
