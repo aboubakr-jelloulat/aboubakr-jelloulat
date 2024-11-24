@@ -21,7 +21,7 @@
 │
 ├─◈ <a href="https://github.com/aboubakr-jelloulat/42-cursus/tree/main/libft">libft</a>
 ├─◈ <a href="https://github.com/aboubakr-jelloulat/42-cursus/tree/main/get_next_line">get_next_line</a>
-├─◈ 
+├─◈ <a href="https://github.com/aboubakr-jelloulat/42-cursus/tree/main/ft_printf">ft_printf</a>
 └───────────────────────────────▰▰▰
 
 ┌──┤ Programming Advices Project ├───────▰▰▰
@@ -31,7 +31,7 @@
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ Email : 
+├─◈ <a href="abubakerjelloulat@gmail.com">Email</a>
 │
 └───────────────────────────────▰▰▰
   
@@ -41,6 +41,5 @@
 <a href="https://stackoverflow.com/users/aboubakr jelloulat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aboubakr jelloulat" height="30" width="40" /></a>
 <a href="https://discord.gg/aboubakr_jelloulat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aboubakr_jelloulat" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
