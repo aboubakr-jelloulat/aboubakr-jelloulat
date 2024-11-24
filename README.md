@@ -31,7 +31,7 @@
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="abubakerjelloulat@gmail.com">Email</a>
+├─◈ Email : abubakerjelloulat@gmail.com
 │
 └───────────────────────────────▰▰▰
   
