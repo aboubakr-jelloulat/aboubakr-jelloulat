@@ -26,7 +26,7 @@
 
 ┌──┤ C++ Project ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/aboubakr-jelloulat/Programming-Advices-project/tree/main/Bank_1">Bank_1</a>
+├─◈ <a href="https://github.com/aboubakr-jelloulat/Programming-Advices-project/blob/main/perfect_bank.cpp">Bank Simulator</a>
 │
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
