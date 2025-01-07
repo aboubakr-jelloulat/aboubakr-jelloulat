@@ -24,10 +24,10 @@
 ├─◈ <a href="https://github.com/aboubakr-jelloulat/42-cursus/tree/main/ft_printf">ft_printf</a>
 └───────────────────────────────▰▰▰
 
-┌──┤ Programming Advices Project ├───────▰▰▰
+┌──┤ C++ Project ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/aboubakr-jelloulat/Programming-Advices-project/tree/main/Bank_1">Bank_1</a>
-├─◈ <a href="https://github.com/aboubakr-jelloulat/Programming-Advices-project/tree/main/Bank_1_bonus">Bank_1_full_project</a>
+│
 └───────────────────────────────▰▰▰
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
